@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on eduMRIsim</title>
+    <link>https://eduMRIsim.github.io/tags/</link>
+    <description>Recent content in Tags on eduMRIsim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://eduMRIsim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nextjs</title>
+      <link>https://eduMRIsim.github.io/tags/nextjs/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silicon</title>
+      <link>https://eduMRIsim.github.io/tags/silicon/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/tags/silicon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://eduMRIsim.github.io/tags/software/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tailwind</title>
+      <link>https://eduMRIsim.github.io/tags/tailwind/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/tags/tailwind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://eduMRIsim.github.io/tags/technology/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

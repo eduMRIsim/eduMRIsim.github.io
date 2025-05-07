@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on eduMRIsim</title>
+    <link>https://eduMRIsim.github.io/categories/</link>
+    <description>Recent content in Categories on eduMRIsim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://eduMRIsim.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application</title>
+      <link>https://eduMRIsim.github.io/categories/application/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/categories/application/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>https://eduMRIsim.github.io/categories/architecture/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/categories/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://eduMRIsim.github.io/categories/data/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/categories/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://eduMRIsim.github.io/categories/software/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/categories/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://eduMRIsim.github.io/categories/technology/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

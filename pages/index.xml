@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on eduMRIsim</title>
+    <link>https://eduMRIsim.github.io/pages/</link>
+    <description>Recent content in Pages on eduMRIsim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://eduMRIsim.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://eduMRIsim.github.io/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acknowledgements</title>
+      <link>https://eduMRIsim.github.io/acknowledgements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/acknowledgements/</guid>
+      <description>&lt;p&gt;This project is funded by &lt;a href=&#34;https://www.stitpro.nl/projects/edumrisim/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;StITPro&lt;/a&gt; and the &lt;a href=&#34;https://boost.tue.nl/projects/educational-magnetic-resonance-imaging-simulator-edumrisim/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;TU/e BOOST! program&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo video</title>
+      <link>https://eduMRIsim.github.io/demo-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/demo-video/</guid>
+      <description>&lt;h3 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h3&gt;&#xA;&lt;iframe width=&#34;800&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/LKpK-ZN7hZI?si=OE_oyp9TyYdCre-x&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://eduMRIsim.github.io/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

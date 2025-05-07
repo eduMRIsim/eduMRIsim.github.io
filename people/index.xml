@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on eduMRIsim</title>
+    <link>https://eduMRIsim.github.io/people/</link>
+    <description>Recent content in People on eduMRIsim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://eduMRIsim.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alexander Raaijmakers</title>
+      <link>https://eduMRIsim.github.io/people/b_alexander-raaijmakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/people/b_alexander-raaijmakers/</guid>
+      <description>&lt;p&gt;Assistant Professor&lt;/p&gt;&#xA;&lt;p&gt;Eindhoven University of Technology/UMCU&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;a.j.e.raaijmakers@tue.nl&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;a.j.e.raaijmakers@tue.nl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marcel Breeuwer</title>
+      <link>https://eduMRIsim.github.io/people/c_marcel-breeuwer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/people/c_marcel-breeuwer/</guid>
+      <description>&lt;p&gt;Professor&lt;/p&gt;&#xA;&lt;p&gt;Eindhoven University of Technology&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:m.breeuwer@tue.nl&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;m.breeuwer@tue.nl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stephanie Gonzalez</title>
+      <link>https://eduMRIsim.github.io/people/a_stephanie-gonzalez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/people/a_stephanie-gonzalez/</guid>
+      <description>&lt;p&gt;PhD candidate&lt;/p&gt;&#xA;&lt;p&gt;Eindhoven University of Technology&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:s.e.g.r.gonzalez.riedel@tue.nl&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;s.e.g.r.gonzalez.riedel@tue.nl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

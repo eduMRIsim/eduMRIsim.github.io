@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eduMRIsim</title>
+    <link>https://eduMRIsim.github.io/</link>
+    <description>Recent content on eduMRIsim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://eduMRIsim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to build an Application with modern Technology</title>
+      <link>https://eduMRIsim.github.io/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/blog/post-1/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to build an Application with modern Technology</title>
+      <link>https://eduMRIsim.github.io/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/blog/post-2/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to build an Application with modern Technology</title>
+      <link>https://eduMRIsim.github.io/blog/post-3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/blog/post-3/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to build an Application with modern Technology</title>
+      <link>https://eduMRIsim.github.io/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/blog/post-4/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://eduMRIsim.github.io/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acknowledgements</title>
+      <link>https://eduMRIsim.github.io/acknowledgements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/acknowledgements/</guid>
+      <description>&lt;p&gt;This project is funded by &lt;a href=&#34;https://www.stitpro.nl/projects/edumrisim/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;StITPro&lt;/a&gt; and the &lt;a href=&#34;https://boost.tue.nl/projects/educational-magnetic-resonance-imaging-simulator-edumrisim/&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;TU/e BOOST! program&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alexander Raaijmakers</title>
+      <link>https://eduMRIsim.github.io/people/b_alexander-raaijmakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/people/b_alexander-raaijmakers/</guid>
+      <description>&lt;p&gt;Assistant Professor&lt;/p&gt;&#xA;&lt;p&gt;Eindhoven University of Technology/UMCU&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;a.j.e.raaijmakers@tue.nl&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;a.j.e.raaijmakers@tue.nl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo video</title>
+      <link>https://eduMRIsim.github.io/demo-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/demo-video/</guid>
+      <description>&lt;h3 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h3&gt;&#xA;&lt;iframe width=&#34;800&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/LKpK-ZN7hZI?si=OE_oyp9TyYdCre-x&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Marcel Breeuwer</title>
+      <link>https://eduMRIsim.github.io/people/c_marcel-breeuwer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/people/c_marcel-breeuwer/</guid>
+      <description>&lt;p&gt;Professor&lt;/p&gt;&#xA;&lt;p&gt;Eindhoven University of Technology&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:m.breeuwer@tue.nl&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;m.breeuwer@tue.nl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://eduMRIsim.github.io/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stephanie Gonzalez</title>
+      <link>https://eduMRIsim.github.io/people/a_stephanie-gonzalez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eduMRIsim.github.io/people/a_stephanie-gonzalez/</guid>
+      <description>&lt;p&gt;PhD candidate&lt;/p&gt;&#xA;&lt;p&gt;Eindhoven University of Technology&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:s.e.g.r.gonzalez.riedel@tue.nl&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;s.e.g.r.gonzalez.riedel@tue.nl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>User Feedback</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
